@@ -1,0 +1,21 @@
+============================================================
+
+installed libraries for this project:
+    + npm i bootstrap@4.1.1 font-awesome@4.7.0
+    + npm i lodash@4.17.10
+    + npm i prop-types@15.6.2
+            proptypes -> https://reactjs.org/docs/typechecking-with-proptypes.html
+
+    + npm i joi-browser@13.4
+            joi -> https://www.npmjs.com/package/joi
+
+
+
+
+
+
+
+============================================================
+
+Additoinal:
+    + prettier printWidth -> https://stackoverflow.com/questions/52005345/prevent-prettier-from-converting-single-line-object-declarations-into-multi-line
